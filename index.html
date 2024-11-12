@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+        <!-- Favicon -->
+        <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon" />
+        <!-- CSS -->
+        <link rel="stylesheet" href="./assets/css/main.css" />
+    </head>
+    <body>
+        <!-- Header -->
+        <header>
+            <!-- Navbar -->
+            <nav class="navbar bg-dark">
+                <div class="container">
+                    <a class="navbar-brand text-white fw-semibold" href="#">
+                        <img src="./assets/img/favicon.ico" alt="Logo" width="40" height="40" class="d-inline-block align-text-baseline" />
+                        Superhero
+                    </a>
+                </div>
+            </nav>
+        </header>
+
+        <!-- Main -->
+        <main class="container">
+            <!-- Buscador -->
+            <section class="d-flex flex-column justify-content-center align-items-center">
+                <div class="row justify-content-center">
+                    <img src="./assets/img/sh1.jpg" alt="Superhéroe " class="col-md-10 col-10" />
+                </div>
+                <div class="m-2 d-flex flex-column">
+                    <h2 class="">Encuentra tu Superhéroe</h2>
+                    <p class="fst-italic">Ingresa el número del superhéroe al buscar</p>
+                    <input type="text" class="form-control" id="inputSearch" />
+                    <button type="button" class="btnSearch btn btn-primary w-25 ms-auto my-2">Buscar</button>
+                </div>
+            </section>
+
+            <!-- Vista de resultados -->
+            <section id="resultados" class="container">
+                <div class="row d-flex" id="superheroBox">
+                    <!-- Resultados van acá -->
+                </div>
+            </section>
+        </main>
+
+        <!-- JQuery -->
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+        <!-- CanvasJS -->
+        <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+        <!-- JS -->
+        <script type="module" src="./assets/js/script.js"></script>
+    </body>
+</html>

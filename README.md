@@ -13,7 +13,7 @@ La revista semanal SuperHero Chile, se encuentra en plena fase de masificación 
 
 En base a lo anterior, usted ha sido contratado para crear una aplicación dinámica que permita a los usuarios buscar un superhéroe y visualizar información referente al personaje  buscado.
 
-Ahora bien, para obtener la información necesaria de los Superhéroes se deberá consultar a la API denominada “SuperHero API”, la cual, se encuentra disponible en https://www.superheroapi.com/. Esta API en particular requiere de una clave o access-token, que se entrega al iniciar sesión con una cuenta de Facebook. Recuerda leer la documentación disponible en la API y revisar el material llamado Apoyo Prueba - Encuentra tu SuperHero. 
+Ahora bien, para obtener la información necesaria de los Superhéroes se deberá consultar a la API denominada “SuperHero API”, la cual, se encuentra disponible en https://www.superheroapi.com/. Esta API en particular requiere de una clave o access-token, que se entrega al iniciar sesión con una cuenta de Facebook. 
 
 ## Requerimientos
 

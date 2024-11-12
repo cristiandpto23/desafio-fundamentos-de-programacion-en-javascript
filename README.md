@@ -1,8 +1,8 @@
 # Desafío Fundamentos de programación en JavaScript
 
-💡 Realizado cristiandpto23 con HTML, CSS ,JS, JQuery y CanvasJS<br>
+💡 Realizado [cristiandpto23](https://github.com/cristiandpto23) con HTML, CSS ,JS, JQuery y CanvasJS<br>
 ℹ Front-End G17 - Desafío Latam<br>
-🔗 Desplegado en GitHub Pages aquí
+🔗 Desplegado en GitHub Pages [aquí](https://cristiandpto23.github.io/desafio-fundamentos-de-programacion-en-javascript/)
 
 ## Introducción
 En esta prueba validaremos nuestros conocimientos de Fundamentos de programación en JavaScript.

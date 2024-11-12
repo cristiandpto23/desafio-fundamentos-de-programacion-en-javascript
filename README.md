@@ -1,6 +1,6 @@
 # Desafío Fundamentos de programación en JavaScript
 
-💡 Realizado [cristiandpto23](https://github.com/cristiandpto23) con HTML, CSS ,JS, JQuery y CanvasJS<br>
+💡 Realizado [cristiandpto23](https://github.com/cristiandpto23) con HTML, CSS ,JS, Bootstrap, SASS, JQuery y CanvasJS<br>
 ℹ Front-End G17 - Desafío Latam<br>
 🔗 Desplegado en GitHub Pages [aquí](https://cristiandpto23.github.io/desafio-fundamentos-de-programacion-en-javascript/)
 
@@ -44,3 +44,7 @@ Ahora bien, para obtener la información necesaria de los Superhéroes se deber�
 En la siguiente imagen, se puede observar el resultado de la búsqueda del id número: 213. 
 
 ![alt text](image-1.png)
+
+## Tecnologías utilizadas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
